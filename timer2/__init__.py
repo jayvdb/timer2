@@ -18,7 +18,7 @@ VERSION = (0, 1, 0)
 __version__ = ".".join(map(str, VERSION))
 __author__ = "Ask Solem"
 __contact__ = "ask@celeryproject.org"
-__homepage__ = "http://github.com/ask/timer/"
+__homepage__ = "http://github.com/ask/timer2/"
 __docformat__ = "restructuredtext"
 
 DEFAULT_MAX_INTERVAL = 2
